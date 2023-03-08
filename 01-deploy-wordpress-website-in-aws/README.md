@@ -21,3 +21,8 @@
 
 **Resume Project Title**
 > "_Deployed and hosted a highly-available WordPress applivation using EC2, RDS, Route 53, ASG, VPC_"
+
+
+**Tasks Completed**
+>   You created an Amazon RDS instance and an EC2 instance. You allowed network access from your EC2 instance to your Amazon RDS instance. You learned how to use SSH to connect to your EC2 instance and configured a database user to be used by WordPress.
+>   In this module, you will finish up the work to make your WordPress site live. You will install the WordPress application and dependencies on the EC2 instance. At the end of this module, you will have a WordPress installation that is accessible in the browser from anywhere in the world.
