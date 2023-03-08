@@ -1,8 +1,11 @@
 # AWS-Projects
 
-## 1. Deploy a wordpress website in AWS
+## Project-1: 
 
-**Project Architecture**
-1. WordPress website hosted on Amazon EC2
-2. Connect with Amazon RDS database
-3. Publicly accessible ove the internet
+> Name: **01-deploy-wordpress-website-in-aws**
+
+> Description: Deploy a wordpress website in AWS
+
+> Documentation: <a href="01-deploy-wordpress-website-in-aws">Read me</a>
+
+
