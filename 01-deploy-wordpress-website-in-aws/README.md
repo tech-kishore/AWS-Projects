@@ -12,11 +12,13 @@
 
 **Modules**
 1. Creating a MySQL Database with Amazon RDS (5 minutes): Configure the Amazon RDS database to allow access to specific entities.
-2. Creating an EC2 Instance (10 minutes): Create an EC2 instance to run your WordPress site.
-3. Configuring Your Amazon RDS Database (15 minutes): Configure the Amazon RDS database to allow access to specific entities.
-4. > https://aws.amazon.com/getting-started/hands-on/deploy-wordpress-with-amazon-rds/module-three/?refid=662aeb66-1ee5-4842-b706-60c6a1b4f187
-5. Configuring WordPress on EC2 (15 minutes): Install the WordPress application and dependencies on the EC2 instance.
-6. Explore Your New Website and Clean Up (5 minutes): Clean up the resources created in this guide so that you will not be charged.
+2. > https://aws.amazon.com/getting-started/hands-on/deploy-wordpress-with-amazon-rds/module-one/?refid=09863622-0e2a-4080-9bba-12d378e294ba
+3. Creating an EC2 Instance (10 minutes): Create an EC2 instance to run your WordPress site.
+4. Configuring Your Amazon RDS Database (15 minutes): Configure the Amazon RDS database to allow access to specific entities.
+5. > https://aws.amazon.com/getting-started/hands-on/deploy-wordpress-with-amazon-rds/module-three/?refid=662aeb66-1ee5-4842-b706-60c6a1b4f187
+6. Configuring WordPress on EC2 (15 minutes): Install the WordPress application and dependencies on the EC2 instance.
+7. > https://aws.amazon.com/getting-started/hands-on/deploy-wordpress-with-amazon-rds/module-four/?refid=09863622-0e2a-4080-9bba-12d378e294ba
+8. Explore Your New Website and Clean Up (5 minutes): Clean up the resources created in this guide so that you will not be charged.
 
 
 **Resume Project Title**
