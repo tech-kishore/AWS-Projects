@@ -16,3 +16,7 @@
 3. Configuring Your Amazon RDS Database (15 minutes): Configure the Amazon RDS database to allow access to specific entities.
 4. Configuring WordPress on EC2 (15 minutes): Install the WordPress application and dependencies on the EC2 instance.
 5. Explore Your New Website and Clean Up (5 minutes): Clean up the resources created in this guide so that you will not be charged.
+
+
+**Resume Project Title**
+> "_Deployed and hosted a highly-available WordPress applivation using EC2, RDS, Route 53, ASG, VPC_"
