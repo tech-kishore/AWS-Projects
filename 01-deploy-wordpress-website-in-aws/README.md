@@ -26,5 +26,7 @@
 
 
 **Tasks Completed**
->   You created an Amazon RDS instance and an EC2 instance. You allowed network access from your EC2 instance to your Amazon RDS instance. You learned how to use SSH to connect to your EC2 instance and configured a database user to be used by WordPress.
->   In this module, you will finish up the work to make your WordPress site live. You will install the WordPress application and dependencies on the EC2 instance. At the end of this module, you will have a WordPress installation that is accessible in the browser from anywhere in the world.
+1. created an Amazon RDS instance and an EC2 instance.
+2. Allowed network access from your EC2 instance to Amazon RDS instance.
+3. Used SSH to connect to EC2 instance and configured a database user to be used by WordPress.
+4. Make the WordPress site live - Installed the WordPress application and dependencies on the EC2 instance. Wordpress site is accessible in the browser from anywhere in the world.
