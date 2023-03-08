@@ -26,7 +26,7 @@
 
 
 **Tasks Completed**
-1. created an Amazon RDS instance and an EC2 instance.
+1. Created an Amazon RDS instance and an EC2 instance.
 2. Allowed network access from your EC2 instance to Amazon RDS instance.
 3. Used SSH to connect to EC2 instance and configured a database user to be used by WordPress.
 4. Make the WordPress site live - Installed the WordPress application and dependencies on the EC2 instance. Wordpress site is accessible in the browser from anywhere in the world.
