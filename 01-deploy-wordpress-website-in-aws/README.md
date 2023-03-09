@@ -1,7 +1,7 @@
 # Deploy a wordpress website in AWS (Advanced)
 
 **Resume Project Title**
-> "_Deployed and hosted a highly-available WordPress application using EC2, RDS, S3, CDN, Route 53, ASG, VPC, Cloudwatch_"
+> "_Deployed and hosted a highly-available and highly-scalable WordPress application using EC2, RDS, S3, CDN, Route 53, ASG, VPC, Cloudwatch_"
 
 # Architecture
 
