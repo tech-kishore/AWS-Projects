@@ -63,5 +63,37 @@
 **Traffic Flow:**
 > Here is how the visitors get to the site —  once they hit the website domain on their browser their request will pass to the internet, route it to the DNS manager and the DNS manager(Route53) will resolve the request to the specified server, the web server then, will serve the application.
 
+![Alt Text](https://images.clickittech.com/wp-content/uploads/2018/07/scalable-wordpress.gif)
 
+
+
+**What will happen when your traffic increases? Well here is the example:**
+
+![image](https://user-images.githubusercontent.com/124598875/224066276-76f7f57a-4840-414e-8892-8507b4218845.png)
+
+> In the image above, we can see that depending on the Aggregate Load, the environment continues to satisfy the demand by creating more instances as it grows and the same happens the other way.
+
+
+**What actually happens during auto-scaling**
+
+![image](https://images.clickittech.com/wp-content/uploads/2018/07/Wordpress-High-Performance-Scaling.gif)
+
+### Server Caching / WordPress Caching
+
+Server-side caching or WordPress-side caching with a plugin or embedded in a host. If a caching system i not yet implemented, make sure you do from now on as it speeds up the website dramatically.
+
+### CDN: Content Delivery Network
+
+A network of servers or services in which the content will be hosted and this network will be used to transfer the content to all the visitors.
+Using a CDN will help to spread the content around the world faster than having it hosted on your server.
+
+## Pro Tips
+
+1. To increase the performance use a Database, query and page caching plugin.
+2. Increase the RDS performance with a dedicated Aurora RDS.
+3. Use S3 and CloudFront to deliver the content faster.
+4. Enable Alarms on AWS Cloudwatch.
+5. Enable the Billing Alarm to avoid unwanted charges for usage.
+6. Use Reserved Instances! If you are going to stay in AWS for a long time reserve, it will save you up to 30%.
+7. Use a Version control system to track your changes and deploy to the instances.
 
