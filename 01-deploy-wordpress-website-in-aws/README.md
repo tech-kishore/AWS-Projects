@@ -1,4 +1,4 @@
-# Deploy a wordpress website in AWS
+# Deploy a wordpress website in AWS (Advanced)
 
 **Resume Project Title**
 > "_Deployed and hosted a highly-available WordPress applivation using EC2, RDS, Route 53, ASG, VPC_"
