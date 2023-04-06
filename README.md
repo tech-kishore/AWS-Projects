@@ -32,7 +32,8 @@
 
 > **Third party:**  ArcGIS
 
-> **Architecture:** ![image](https://d1.awsstatic.com/diagrams/Serverless_Architecture.d930970c77b382db6e0395198aacccd8a27fefb7.png)
+> **Architecture:** 
+> ![image](https://d1.awsstatic.com/diagrams/Serverless_Architecture.d930970c77b382db6e0395198aacccd8a27fefb7.png)
 
 ## Project-3: 
 
