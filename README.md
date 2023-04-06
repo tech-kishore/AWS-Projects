@@ -8,7 +8,7 @@
 
 > **Documentation:** <a href="01-deploy-wordpress-website-in-aws">Read me</a>
 
-> **Ref:** <a hre="https://aws.amazon.com/getting-started/hands-on/build-wordpress-website/">Resource</a>
+> **Ref:** <a href="https://aws.amazon.com/getting-started/hands-on/build-wordpress-website/">Resource</a>
 
 > **Architecture** ![image](https://github.com/tech-kishore/AWS-Projects/blob/main/01-deploy-wordpress-website-in-aws/Wordpress-AWS.jpg)
 
@@ -21,7 +21,7 @@
 
 > **Documentation:** <a href="">Read me</a>
 
-> **Ref:** <a hre="https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/">Resource</a>
+> **Ref:** <a href="https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/">Resource</a>
 
 
 ## Project-3: 
