@@ -23,6 +23,13 @@
 
 > **Ref:** <a href="https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/">Resource</a>
 
+> **Services:** 
+. AWS Lambda
+. Amazon API Gateway
+. AWS Amplify
+. Amazon DynamoDB
+. Amazon Cognito
+
 
 ## Project-3: 
 
