@@ -1,4 +1,4 @@
-# AWS-Projects
+# AWS-Projects - (Lucy suggested)
 
 ## Project-1: (Done-revisit)
 
