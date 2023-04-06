@@ -11,12 +11,12 @@
 > **Architecture** ![image](https://github.com/tech-kishore/AWS-Projects/blob/main/01-deploy-wordpress-website-in-aws/Wordpress-AWS.jpg)
 
 
-## Project-2: 
+## Project-3: 
 
-> **Name:** 01-deploy-wordpress-website-in-aws
+> **Name:** 03-amazon-connect-call-center-aws
 
-> **Description:** Deploy a wordpress website in AWS
+> **Description:** Build an amazon connect call center in AWS
 
-> **Documentation:** <a href="01-deploy-wordpress-website-in-aws">Read me</a>
+> **Documentation:** <a href="">Read me</a>
 
 
