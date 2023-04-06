@@ -8,6 +8,8 @@
 
 > **Documentation:** <a href="01-deploy-wordpress-website-in-aws">Read me</a>
 
+> **Architecture** ![image](https://github.com/tech-kishore/AWS-Projects/blob/main/01-deploy-wordpress-website-in-aws/Wordpress-AWS.jpg)
+
 
 ## Project-2: 
 
