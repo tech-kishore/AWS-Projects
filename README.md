@@ -32,6 +32,6 @@
 
 > **Documentation:** <a href="">Read me</a>
 
-> **Ref:** <a hre="https://github.com/aws-samples/amazon-lex-connect-workshop/">Resource</a>
+> **Ref:** <a href="https://github.com/aws-samples/amazon-lex-connect-workshop/">Resource</a>
 
 
