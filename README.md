@@ -13,7 +13,7 @@
 > **Architecture** ![image](https://github.com/tech-kishore/AWS-Projects/blob/main/01-deploy-wordpress-website-in-aws/Wordpress-AWS.jpg)
 
 
-## Project-2: 
+## Project-2: (Done)
 
 > **Name:** 02-serverless-web-application-aws
 
